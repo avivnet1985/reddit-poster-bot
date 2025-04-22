@@ -1,6 +1,6 @@
 
-reddit_username = "ixbwavw171@1secmail.website"
-reddit_password = "Aa7457013B!"
+reddit_username = "USERNAME"
+reddit_password = "PASSWORD"
 
 client_id = "YOUR_REDDIT_APP_CLIENT_ID"
 client_secret = "YOUR_REDDIT_APP_SECRET"
